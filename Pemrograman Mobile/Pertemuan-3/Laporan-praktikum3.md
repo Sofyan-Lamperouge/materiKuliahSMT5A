@@ -301,6 +301,4 @@ Jalankan aplikasi dan pastikan semua fitur bekerja:
 
 ### Hasil Akhir ###
 
-<video width="25%" controls autoplay loop muted playsinline>
-  <source src="cv.mp4" type="video/mp4">
-</video>
+<img src="CV.gif" width="50%">
