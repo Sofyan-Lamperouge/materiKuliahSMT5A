@@ -23,3 +23,19 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 7. Konfirmasi Bukti
 
 <img src="Login.gif" width="40%">
+
+### Langkah 3: Bottom Tab Navigation ###
+1. Instalasi Pustaka Bottom Tabs (npm install @react-navigation/bottom-tabs)
+2. Buat file HomeScreen.js dan ProfileScreen.js di dalam folder screens.npm install @react-navigation/bottom-tabs
+3. Sesuaikan isi file App.js dengan yang ada di modul
+4. npx expo start --web
+5. Konfirmasi Bukti
+
+<img src="Home.gif" width="40%">
+
+### Langkah 4: Drawer Navigation ###
+1. Instalasi Pustaka Drawer (npm install @react-navigation/drawer)
+2. Konfigurasi Drawer di App.js
+3. Konfirmasi Bukti
+
+<img src="Drawer.gif" width="40%">
